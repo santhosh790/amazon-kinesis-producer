@@ -105,7 +105,7 @@ public class SampleProducer {
     /**
      * Change this to the region you are using.
      */
-    public static final String REGION = "us-west-1";
+    public static final String REGION = "us-east-2";
 
     /**
      * Here'll walk through some of the config options and create an instance of
