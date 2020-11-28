@@ -100,7 +100,7 @@ public class SampleProducer {
     /**
      * Change this to your stream name.
      */
-    public static final String STREAM_NAME = "test";
+    public static final String STREAM_NAME = "test1";
     
     /**
      * Change this to the region you are using.
